@@ -1,0 +1,375 @@
+id,value
+Aberdeen City,194
+Aberdeenshire,68
+Adur,40
+Allerdale,110
+Amber Valley,182
+Angus,128
+Argyll and Bute,72
+Arun,111
+Ashfield,99
+Ashford,89
+Aylesbury Vale,193
+Babergh,101
+Barking and Dagenham,40
+Barnet,138
+Barnsley,269
+Barrow-in-Furness,101
+Basildon,78
+Basingstoke and Deane,124
+Bassetlaw,120
+Bath and North East Somerset,171
+Bedford,136
+Bexley,125
+Birmingham,446
+Blaby,57
+Blackburn with Darwen,130
+Blackpool,61
+Bolsover,87
+Bolton,240
+Boston,82
+Bournemouth,105
+Bracknell Forest,63
+Bradford,472
+Braintree,140
+Breckland,115
+Brent,105
+Brentwood,112
+Bridgend,169
+Brighton and Hove,332
+Bristol, City of,445
+Broadland,83
+Bromley,184
+Bromsgrove,98
+Broxbourne,51
+Broxtowe,31
+Burnley,104
+Bury,56
+Caerphilly,205
+Calderdale,351
+Cambridge,86
+Camden,278
+Cannock Chase,103
+Canterbury,158
+Cardiff,208
+Carlisle,88
+Carmarthenshire,268
+Castle Point,40
+Central Bedfordshire,180
+Ceredigion,127
+Charnwood,181
+Chelmsford,138
+Cheltenham,98
+Cherwell,120
+Cheshire East,268
+Cheshire West and Chester,196
+Chesterfield,130
+Chichester,154
+Chiltern,34
+Chorley,119
+Christchurch,33
+City of Edinburgh,479
+City of London,245
+Clackmannanshire,54
+Colchester,124
+Conwy,166
+Copeland,115
+Cornwall,598
+Cotswold,134
+County Durham,683
+Coventry,197
+Craven,123
+Crawley,1
+Croydon,144
+Dacorum,132
+Darlington,114
+Dartford,71
+Daventry,92
+Denbighshire,56
+Derby,203
+Derbyshire Dales,160
+Doncaster,309
+Dover,156
+Dudley,316
+Dundee City,199
+Ealing,149
+East Ayrshire,51
+East Cambridgeshire,48
+East Devon,163
+East Dorset,52
+East Dunbartonshire,49
+East Hampshire,140
+East Hertfordshire,153
+East Lindsey,175
+East Lothian,107
+East Northamptonshire,112
+East Renfrewshire,12
+East Riding of Yorkshire,421
+East Staffordshire,110
+Eastbourne,64
+Eastleigh,75
+Eden,125
+Elmbridge,131
+Enfield,175
+Epping Forest,153
+Epsom and Ewell,19
+Erewash,119
+Exeter,113
+Falkirk,123
+Fareham,49
+Fenland,93
+Fife,418
+Flintshire,148
+Forest Heath,55
+Forest of Dean,52
+Fylde,74
+Gateshead,196
+Gedling,50
+Glasgow City,374
+Gloucester,21
+Gosport,52
+Gravesham,91
+Great Yarmouth,109
+Greenwich,126
+Guildford,84
+Gwynedd,162
+Hackney,196
+Halton,106
+Hambleton,124
+Hammersmith and Fulham,135
+Harborough,83
+Haringey,93
+Harlow,70
+Harrogate,210
+Harrow,84
+Hart,55
+Hartlepool,109
+Hastings,92
+Havant,53
+Havering,94
+Herefordshire, County of,239
+Hertsmere,44
+High Peak,134
+Highland,36
+Hillingdon,152
+Hinckley and Bosworth,118
+Horsham,108
+Hounslow,131
+Huntingdonshire,139
+Hyndburn,82
+Inverclyde,72
+Ipswich,61
+Isle of Anglesey,80
+Isle of Wight,188
+Isles of Scilly,6
+Islington,189
+Kensington and Chelsea,110
+Kettering,80
+King's Lynn and West Norfolk,194
+Kingston upon Hull, City of,198
+Kingston upon Thames,130
+Kirklees,570
+Knowsley,56
+Lambeth,169
+Lancaster,170
+Leeds,633
+Leicester,182
+Lewes,103
+Lewisham,73
+Lichfield,145
+Lincoln,88
+Liverpool,495
+Luton,48
+Maidstone,119
+Maldon,65
+Malvern Hills,107
+Manchester,395
+Mansfield,102
+Medway,128
+Melton,57
+Mendip,171
+Merthyr Tydfil,54
+Merton,72
+Mid Devon,89
+Mid Suffolk,92
+Mid Sussex,111
+Middlesbrough,105
+Midlothian,57
+Milton Keynes,140
+Mole Valley,64
+Monmouthshire,115
+Moray,79
+Na h-Eileanan Siar,18
+Neath Port Talbot,162
+New Forest,166
+Newark and Sherwood,151
+Newcastle upon Tyne,270
+Newcastle-under-Lyme,123
+Newham,43
+Newport,108
+North Ayrshire,131
+North Devon,146
+North Dorset,81
+North East Derbyshire,129
+North East Lincolnshire,143
+North Hertfordshire,144
+North Kesteven,118
+North Lanarkshire,239
+North Lincolnshire,146
+North Norfolk,153
+North Somerset,145
+North Tyneside,23
+North Warwickshire,103
+North West Leicestershire,99
+Northampton,137
+Northumberland,454
+Norwich,153
+Nottingham,259
+Nuneaton and Bedworth,113
+Oadby and Wigston,33
+Oldham,268
+Orkney Islands,11
+Oxford,142
+Pembrokeshire,231
+Pendle,103
+Perth and Kinross,86
+Peterborough,94
+Plymouth,125
+Poole,55
+Portsmouth,183
+Powys,291
+Preston,131
+Purbeck,57
+Reading,113
+Redbridge,88
+Redcar and Cleveland,128
+Redditch,53
+Reigate and Banstead,77
+Renfrewshire,163
+Rhondda Cynon Taf,308
+Ribble Valley,110
+Richmond upon Thames,156
+Richmondshire,46
+Rochdale,189
+Rochford,42
+Rossendale,80
+Rother,113
+Rotherham,216
+Rugby,123
+Runnymede,59
+Rushcliffe,80
+Rushmoor,58
+Ryedale,84
+Salford,183
+Sandwell,223
+Scarborough,203
+Scottish Borders,164
+Sedgemoor,162
+Sefton,241
+Selby,51
+Sevenoaks,99
+Sheffield,202
+Shepway,126
+Shropshire,383
+Slough,27
+Solihull,132
+South Ayrshire,146
+South Bucks,6
+South Cambridgeshire,76
+South Derbyshire,104
+South Gloucestershire,225
+South Hams,126
+South Holland,77
+South Kesteven,138
+South Lakeland,175
+South Lanarkshire,244
+South Norfolk,119
+South Northamptonshire,117
+South Oxfordshire,46
+South Ribble,31
+South Somerset,209
+South Staffordshire,105
+South Tyneside,150
+Southampton,173
+Southend-on-Sea,89
+Southwark,205
+Spelthorne,55
+St Albans,116
+St Edmundsbury,85
+St. Helens,140
+Stafford,143
+Staffordshire Moorlands,126
+Stevenage,39
+Stockport,51
+Stockton-on-Tees,154
+Stoke-on-Trent,236
+Stratford-on-Avon,207
+Stroud,128
+Suffolk Coastal,129
+Sunderland,245
+Surrey Heath,33
+Sutton,45
+Swale,122
+Swansea,191
+Swindon,111
+Tameside,156
+Tamworth,63
+Tandridge,85
+Taunton Deane,92
+Teignbridge,157
+Telford and Wrekin,122
+Tendring,85
+Test Valley,121
+Tewkesbury,41
+Thanet,154
+Three Rivers,47
+Thurrock,66
+Tonbridge and Malling,105
+Torbay,91
+Torfaen,98
+Torridge,98
+Tower Hamlets,1
+Trafford,142
+Tunbridge Wells,91
+Uttlesford,88
+Vale of Glamorgan,131
+Vale of White Horse,137
+Wakefield,244
+Walsall,196
+Waltham Forest,91
+Wandsworth,174
+Warrington,203
+Warwick,110
+Watford,37
+Waveney,111
+Waverley,94
+Wealden,171
+Wellingborough,80
+Welwyn Hatfield,55
+West Berkshire,128
+West Devon,63
+West Dorset,130
+West Dunbartonshire,56
+West Lancashire,117
+West Lindsey,104
+West Lothian,87
+West Oxfordshire,115
+West Somerset,52
+Westminster,383
+Weymouth and Portland,43
+Wigan,190
+Wiltshire,634
+Winchester,121
+Windsor and Maidenhead,109
+Wirral,216
+Woking,55
+Wokingham,90
+Wolverhampton,179
+Worcester,100
+Worthing,77
+Wrexham,96
+Wychavon,153
+Wycombe,148
+Wyre,78
+Wyre Forest,102
+York,231
